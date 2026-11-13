@@ -1,0 +1,200 @@
+{
+  "PlayerData": [
+    {
+      "ID": 1,
+      "Forename": "Milan",
+      "Surname": "Lukač",
+      "ImageURL": ""
+    },
+    {
+      "ID": 2,
+      "Forename": "Alperen",
+      "Surname": "Babacan",
+      "ImageURL": ""
+    },
+    {
+      "ID": 3,
+      "Forename": "Eray",
+      "Surname": "Ataseven",
+      "ImageURL": ""
+    },
+    {
+      "ID": 4,
+      "Forename": "Aykut",
+      "Surname": "Çeviker",
+      "ImageURL": ""
+    },
+    {
+      "ID": 5,
+      "Forename": "Hélder",
+      "Surname": "Barbosa",
+      "ImageURL": ""
+    },
+    {
+      "ID": 6,
+      "Forename": "Muğdat",
+      "Surname": "Çelik",
+      "ImageURL": ""
+    },
+    {
+      "ID": 7,
+      "Forename": "Ioan",
+      "Surname": "Hora",
+      "ImageURL": ""
+    },
+    {
+      "ID": 8,
+      "Forename": "Soner",
+      "Surname": "Aydoğdu",
+      "ImageURL": ""
+    },
+    {
+      "ID": 9,
+      "Forename": "Onur",
+      "Surname": "Ayık",
+      "ImageURL": ""
+    },
+    {
+      "ID": 10,
+      "Forename": "Paulo",
+      "Surname": "Henrique",
+      "ImageURL": ""
+    },
+    {
+      "ID": 11,
+      "Forename": "Miguel",
+      "Surname": "Lopes",
+      "ImageURL": ""
+    },
+    {
+      "ID": 12,
+      "Forename": "Orhan",
+      "Surname": "Taşdelen",
+      "ImageURL": ""
+    },
+    {
+      "ID": 13,
+      "Forename": "Hasan Ali",
+      "Surname": "Adıgüzel",
+      "ImageURL": ""
+    },
+    {
+      "ID": 14,
+      "Forename": "Ömer",
+      "Surname": "Bayram",
+      "ImageURL": ""
+    },
+    {
+      "ID": 15,
+      "Forename": "Abdoul",
+      "Surname": "Sissoko",
+      "ImageURL": ""
+    },
+    {
+      "ID": 16,
+      "Forename": "Yevhen",
+      "Surname": "Seleznyov",
+      "ImageURL": ""
+    },
+    {
+      "ID": 17,
+      "Forename": "Mustafa",
+      "Surname": "Yumlu",
+      "ImageURL": ""
+    },
+    {
+      "ID": 18,
+      "Forename": "Dany",
+      "Surname": "Nounkeu",
+      "ImageURL": ""
+    },
+    {
+      "ID": 19,
+      "Forename": "Bilal",
+      "Surname": "Kısa",
+      "ImageURL": ""
+    },
+    {
+      "ID": 20,
+      "Forename": "Olcan",
+      "Surname": "Adın",
+      "ImageURL": ""
+    },
+    {
+      "ID": 21,
+      "Forename": "Daniel",
+      "Surname": "Larsson",
+      "ImageURL": ""
+    },
+    {
+      "ID": 22,
+      "Forename": "Bora",
+      "Surname": "Körk",
+      "ImageURL": ""
+    },
+    {
+      "ID": 23,
+      "Forename": "Marvin",
+      "Surname": "Emnes",
+      "ImageURL": ""
+    },
+    {
+      "ID": 24,
+      "Forename": "Geoffrey",
+      "Surname": "Mujangi Bia",
+      "ImageURL": ""
+    },
+    {
+      "ID": 25,
+      "Forename": "Serginho",
+      "Surname": "Mineiro",
+      "ImageURL": ""
+    },
+    {
+      "ID": 26,
+      "Forename": "Caner",
+      "Surname": "Osmanpaşa",
+      "ImageURL": ""
+    },
+    {
+      "ID": 27,
+      "Forename": "Kadir",
+      "Surname": "Keleş",
+      "ImageURL": ""
+    },
+    {
+      "ID": 28,
+      "Forename": "Fatih",
+      "Surname": "Öztürk",
+      "ImageURL": ""
+    }
+  ],
+  "ClubData": [
+    {
+      "ID": 1,
+      "Name": "Akhisar Belediyespor",
+      "ShortName": "AKH",
+      "ImageURL": ""
+    }
+  ],
+  "LeagueData": [
+    {
+      "ID": 28,
+      "Name": "Süper Lig",
+      "ImageURL": ""
+    }
+  ],
+  "CupData": [
+    {
+      "ID": 2,
+      "Name": "Türkiye Kupası",
+      "ImageURL": ""
+    }
+  ],
+  "StadiumData": [
+    {
+      "ID": 1,
+      "Name": "Spor Toto Akhisar Stadyumu"
+    }
+  ]
+}
