@@ -1,0 +1,31 @@
+{
+  "PlayerData": [],
+  "ClubData": [
+    {
+      "ID": 1,
+      "Name": "Akhisar Belediyespor",
+      "ShortName": "AKH",
+      "ImageURL": ""
+    }
+  ],
+  "LeagueData": [
+    {
+      "ID": 28,
+      "Name": "Süper Lig",
+      "ImageURL": ""
+    }
+  ],
+  "CupData": [
+    {
+      "ID": 2,
+      "Name": "Türkiye Kupası",
+      "ImageURL": ""
+    }
+  ],
+  "StadiumData": [
+    {
+      "ID": 1,
+      "Name": "Spor Toto Akhisar Stadyumu"
+    }
+  ]
+}
