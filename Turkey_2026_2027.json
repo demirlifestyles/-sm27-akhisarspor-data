@@ -30,32 +30,29 @@
     {"ID": 27, "Forename": "Kadir", "Surname": "Keleş", "ImageURL": ""},
     {"ID": 28, "Forename": "Fatih", "Surname": "Öztürk", "ImageURL": ""}
   ],
-  "ClubData": [
-    {"ID": 1, "Name": "Amed Sportif Faaliyetler", "ShortName": "AME", "ImageURL": ""},
-    {"ID": 2, "Name": "Beşiktaş", "ShortName": "BJK", "ImageURL": ""},
-    {"ID": 3, "Name": "Corendon Alanyaspor", "ShortName": "ALN", "ImageURL": ""},
-    {"ID": 4, "Name": "Çaykur Rizespor", "ShortName": "RIZ", "ImageURL": ""},
-    {"ID": 5, "Name": "Çorum FK", "ShortName": "COR", "ImageURL": ""},
-    {"ID": 6, "Name": "Erzurumspor FK", "ShortName": "ERZ", "ImageURL": ""},
-    {"ID": 7, "Name": "Eyüpspor", "ShortName": "EYP", "ImageURL": ""},
-    {"ID": 8, "Name": "Fenerbahçe", "ShortName": "FB", "ImageURL": ""},
-    {"ID": 9, "Name": "Galatasaray", "ShortName": "GS", "ImageURL": ""},
-    {"ID": 10, "Name": "Gaziantep FK", "ShortName": "GFK", "ImageURL": ""},
-    {"ID": 11, "Name": "Gençlerbirliği", "ShortName": "GEN", "ImageURL": ""},
-    {"ID": 12, "Name": "Göztepe", "ShortName": "GOZ", "ImageURL": ""},
-    {"ID": 13, "Name": "İstanbul Başakşehir", "ShortName": "IBFK", "ImageURL": ""},
-    {"ID": 14, "Name": "Kasımpaşa", "ShortName": "KAS", "ImageURL": ""},
-    {"ID": 15, "Name": "Kocaelispor", "ShortName": "KOC", "ImageURL": ""},
-    {"ID": 16, "Name": "TÜMOSAN Konyaspor", "ShortName": "KON", "ImageURL": ""},
-    {"ID": 17, "Name": "Samsunspor", "ShortName": "SAM", "ImageURL": ""},
-    {"ID": 18, "Name": "Trabzonspor", "ShortName": "TS", "ImageURL": ""},
-    {"ID": 19, "Name": "Akhisar Belediyespor", "ShortName": "AKH", "ImageURL": ""}
-  ],
-  "LeagueData": [
-    {"ID": 28, "Name": "Süper Lig", "ImageURL": ""}
-  ],
-  "CupData": [
-    {"ID": 2, "Name": "Türkiye Kupası", "ImageURL": ""}
+
+"ClubData": [
+  {"ID":1,"Name":"Amed Sportif Faaliyetler","ShortName":"AME","ImageURL":"https://assets.football-logos.cc/logos/turkey/512x512/amed.9e9bcf30.png"},
+  {"ID":2,"Name":"Beşiktaş","ShortName":"BJK","ImageURL":"https://assets.football-logos.cc/logos/turkey/512x512/besiktas.0ec1a299.png"},
+  {"ID":3,"Name":"Corendon Alanyaspor","ShortName":"ALN","ImageURL":"https://assets.football-logos.cc/logos/turkey/512x512/alanyaspor.c7dab604.png"},
+  {"ID":4,"Name":"Çaykur Rizespor","ShortName":"RIZ","ImageURL":"https://assets.football-logos.cc/logos/turkey/512x512/rizespor.91844f4d.png"},
+  {"ID":5,"Name":"Çorum FK","ShortName":"COR","ImageURL":"https://assets.football-logos.cc/logos/turkey/512x512/corum.48e6a97a.png"},
+  {"ID":6,"Name":"Erzurumspor FK","ShortName":"ERZ","ImageURL":"https://assets.football-logos.cc/logos/turkey/512x512/erzurumspor.1de456f6.png"},
+  {"ID":7,"Name":"Eyüpspor","ShortName":"EYP","ImageURL":"https://assets.football-logos.cc/logos/turkey/512x512/eyupspor.a6f59ece.png"},
+  {"ID":8,"Name":"Fenerbahçe","ShortName":"FB","ImageURL":"https://assets.football-logos.cc/logos/turkey/512x512/fenerbahce.ad038cac.png"},
+  {"ID":9,"Name":"Galatasaray","ShortName":"GS","ImageURL":"https://assets.football-logos.cc/logos/turkey/512x512/galatasaray.beadfca5.png"},
+  {"ID":10,"Name":"Gaziantep FK","ShortName":"GFK","ImageURL":"https://assets.football-logos.cc/logos/turkey/512x512/gaziantep.46eb63e9.png"},
+  {"ID":11,"Name":"Gençlerbirliği","ShortName":"GEN","ImageURL":"https://assets.football-logos.cc/logos/turkey/512x512/genclerbirligi.5f34f7a5.png"},
+  {"ID":12,"Name":"Göztepe","ShortName":"GOZ","ImageURL":"https://assets.football-logos.cc/logos/turkey/512x512/goztepe-izmir.d56025de.png"},
+  {"ID":13,"Name":"İstanbul Başakşehir","ShortName":"IBFK","ImageURL":"https://assets.football-logos.cc/logos/turkey/512x512/basaksehir.49a7c330.png"},
+  {"ID":14,"Name":"Kasımpaşa","ShortName":"KAS","ImageURL":"https://assets.football-logos.cc/logos/turkey/512x512/kasimpasa.af12d95a.png"},
+  {"ID":15,"Name":"Kocaelispor","ShortName":"KOC","ImageURL":"https://assets.football-logos.cc/logos/turkey/512x512/kocaelispor.b35e8c3d.png"},
+  {"ID":16,"Name":"TÜMOSAN Konyaspor","ShortName":"KON","ImageURL":"https://assets.football-logos.cc/logos/turkey/512x512/konyaspor.7fb1c091.png"},
+  {"ID":17,"Name":"Samsunspor","ShortName":"SAM","ImageURL":"https://assets.football-logos.cc/logos/turkey/512x512/samsunspor.25e088cd.png"},
+  {"ID":18,"Name":"Trabzonspor","ShortName":"TS","ImageURL":"https://assets.football-logos.cc/logos/turkey/512x512/trabzonspor.32812ba8.png"},
+  {"ID":19,"Name":"Akhisar Belediyespor","ShortName":"AKH","ImageURL":""}
+],
+
   ],
   "StadiumData": [
     {"ID": 1, "Name": "Spor Toto Akhisar Stadyumu"}
