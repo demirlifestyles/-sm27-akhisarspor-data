@@ -53,7 +53,13 @@
   {"ID":19,"Name":"Akhisar Belediyespor","ShortName":"AKH","ImageURL":""}
 ],
 
-  "LeagueData": [],
+  "LeagueData": [
+  {
+    "ID": 1,
+    "Name": "Turkey League",
+    "ImageURL": ""
+  }
+],
   "CupData": [],
   "StadiumData": [
     {"ID": 1, "Name": "Spor Toto Akhisar Stadyumu"}
